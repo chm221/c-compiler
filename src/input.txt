@@ -1,0 +1,7 @@
+void main() {
+int s;
+s = 1;
+int z = 9;
+while( 1 ){
+}
+}
